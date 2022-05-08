@@ -5,7 +5,7 @@ Olá 👋 meu nome é Jackeline
 Estudo Front-and na Laboratoria
 -----------------------------
 
-Sou uma desenvolvedora junior de 18 anos, que ama aprender coisas novas. Atualmente meu maior foco é virar uma desenvolvedora full stack 
+Sou uma estudante de desenvolvimento de software junior de 18 anos, que ama aprender coisas novas. Atualmente meu maior foco é virar uma desenvolvedora full stack 
 
 * 🌍  Moro em São Paulo, Brasil
 * ✉️  Você pode entrar em contato comigo em [jackeaguiar@gmail.com](mailto:jackeaguiar000@gmail.com)
