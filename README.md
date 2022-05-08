@@ -8,10 +8,10 @@ Estudo Front-and na Laboratoria
 Sou uma estudante de desenvolvimento de software junior de 18 anos, que ama aprender coisas novas. Atualmente meu maior foco é virar uma desenvolvedora full stack 
 
 * 🌍  Moro em São Paulo, Brasil
-* ✉️  Você pode entrar em contato comigo em [jackeaguiar@gmail.com](mailto:jackeaguiar000@gmail.com)
+* ✉️  Você pode entrar em contato em [jackeaguiar000@gmail.com](mailto:jackeaguiar000@gmail.com)
 * 🧠  Trabalho usando algumas metodologias ágeis 
 * 🤝  Gosto muito de trabalhar em equipe
-* ⚡  Amo esportes e os meus favoritos são calistenia e musculação
+* ⚡  Amo esportes
 
 
 ### Tech Skills
@@ -42,8 +42,6 @@ Sou uma estudante de desenvolvimento de software junior de 18 anos, que ama apre
 <a href="https://github.com/JackeAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JackeAguiar" /></a>
 
 <a href="https://github.com/JackeAguiar"><img src="https://activity-graph.herokuapp.com/graph?username=JackeAguiar&theme=minimal"/></a>
-
-<a href="https://github.com/JackeAguiar" align="left"><img src="https://github-profile-trophy.vercel.app/?username=JackeAguiar"/></a>
 
 ### Entre em contato
 
