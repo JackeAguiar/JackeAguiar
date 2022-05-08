@@ -32,11 +32,7 @@ Sou uma desenvolvedora junior de 18 anos, que ama aprender coisas novas. Atualme
 <a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Github" /></a>
   
 <a href="firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc6fbwxNMuZyol3yrjBVq_ABXCfEf53y-AoSQRyB3yG6S4mtiPnGX6QaAohOEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
-  
-### Entre em contato
-
-</a> <a href="https://www.linkedin.com/in/jackeline-aguiar-b239b2236/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
-  
+    
 ### Badges
 
 <b>Minhas estáticas do Github</b>
@@ -49,4 +45,6 @@ Sou uma desenvolvedora junior de 18 anos, que ama aprender coisas novas. Atualme
 
 <a href="https://github.com/JackeAguiar" align="left"><img src="https://github-profile-trophy.vercel.app/?username=JackeAguiar"/></a>
 
+### Entre em contato
 
+</a> <a href="https://www.linkedin.com/in/jackeline-aguiar-b239b2236/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
