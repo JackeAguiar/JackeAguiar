@@ -35,7 +35,7 @@ Sou uma estudante de desenvolvimento de software junior de 18 anos, que ama apre
     
 ### Badges
 
-<b>Minhas estáticas do Github</b>
+<b>Minhas estatísticas do Github</b>
 
 <a href="https://github.com/JackeAguiar"><img src="https://github-readme-stats.vercel.app/api?username=JackeAguiar" alt="Jackeline GitHub stats" /></a>
 
