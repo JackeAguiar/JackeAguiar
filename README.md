@@ -37,11 +37,10 @@ Sou estudante de desenvolvimento de software front end , tenho de 18 anos e amo 
 
 <b>Minhas estatísticas do Github</b>
 
-<a href="https://github.com/JackeAguiar"><img src="https://github-readme-stats.vercel.app/api?username=JackeAguiar" alt="Jackeline GitHub stats" /></a>
+<a href="https://github.com/JackeAguiar"><img src="https://github-readme-stats.vercel.app/api?username=JackeAguiar" alt="Jackeline GitHub stats" color="black"/></a>
 
-<a href="https://github.com/JackeAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JackeAguiar" /></a>
+<a href="https://github.com/JackeAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JackeAguiar" color="black" /></a>
 
-<a href="https://github.com/JackeAguiar"><img src="https://activity-graph.herokuapp.com/graph?username=JackeAguiar&theme=minimal"/></a>
 
 ### Entre em contato
 
