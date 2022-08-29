@@ -2,7 +2,7 @@
 Olá 👋 meu nome é Jackeline 
 ==========================
 
-Desenvolvedora web
+Desenvolvedora web junior
 -----------------------------
 
 Sou estudante de desenvolvimento de software front end , tenho de 18 anos e amo aprender coisas novas. Atualmente meu maior foco é virar uma desenvolvedora full stack 
