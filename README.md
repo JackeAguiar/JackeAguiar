@@ -5,7 +5,7 @@ Olá 👋 meu nome é Jackeline
 Desenvolvedora web junior
 -----------------------------
 
-Sou estudante de desenvolvimento de software front end , tenho de 18 anos e amo aprender coisas novas. Atualmente meu maior foco é virar uma desenvolvedora full stack 
+Sou estudante de desenvolvimento de software front end , tenho de 18 anos e amo aprender coisas novas. Atualmente meu objetivo é me tornar uma desenvolvedora full stack 
 
 * 🌍  Moro em São Paulo, Brasil
 * ✉️  Você pode entrar em contato em [jackeaguiar000@gmail.com](mailto:jackeaguiar000@gmail.com)
