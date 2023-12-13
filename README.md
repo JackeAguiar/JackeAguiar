@@ -33,13 +33,6 @@ Sou estudante de desenvolvimento de software front end , tenho de 19 anos e amo 
   
 <a href="firebase.google.com/products/realtime-database/?utm_source=google&utm_medium=cpc&utm_campaign=latam-BR-all-pt-dr-SKWS-all-all-trial-e-dr-1011454-LUAC0008679&utm_content=text-ad-none-any-DEV_c-CRE_429626774316-ADGP_Hybrid%20%7C%20SKWS%20-%20EXA%20%7C%20Txt%20~%20Compute_Firebase-KWID_43700066431125567-kwd-312330826250&utm_term=KW_firebase-ST_Firebase&gclid=Cj0KCQjw1N2TBhCOARIsAGVHQc6fbwxNMuZyol3yrjBVq_ABXCfEf53y-AoSQRyB3yG6S4mtiPnGX6QaAohOEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" /></a>
     
-### Badges
-
-<b>Minhas estatísticas do Github</b>
-
-<a href="https://github.com/JackeAguiar"><img src="https://github-readme-stats.vercel.app/api?username=JackeAguiar" alt="Jackeline GitHub stats" color="black"/></a>
-
-<a href="https://github.com/JackeAguiar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=JackeAguiar" color="black" /></a>
 
 
 ### Entre em contato
